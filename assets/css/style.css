@@ -1,0 +1,15 @@
+input[type=range] {
+    appearance: slider-vertical;
+    width: 8px;
+    height: 175px;
+    padding: 0 5px;
+    accent-color: red;
+    position: absolute;
+    top: 152px;
+    left: 145px;
+    height: 458px;
+}
+img{
+    height: 900px;
+    width: auto;
+}
